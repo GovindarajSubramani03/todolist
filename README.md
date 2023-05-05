@@ -1,6 +1,6 @@
 # todolist
 
-A new Flutter project.
+A new Flutter project TodoList with firebase Authentication to save all your todo's in cloud.
 
 ## Getting Started
 
